@@ -1,0 +1,37 @@
+h1{
+	color: blue;
+
+}
+h2{
+	font-size: 14px;
+}
+p{
+	font-size: 12px;
+	color: yellow;
+	background-color: black;
+	
+
+}
+img{
+	border: red solid 2px;
+}
+{
+	text-indent: 50px;/*文本的锁紧*/
+	text-transform: capitalize; 
+	/*uppercase;lowercase;   大写小写*/
+	text-decoration: blink;
+	/*underline;line-through;overline; 装饰*/
+	text-align: left;
+	/*对齐方式 左中右*/
+	word-spacing: 25px;	
+	/*单词的间距*/
+	white-space: nowrap;
+	/*空白处不换行*/
+	color: red;
+	line-height: 80px;
+	font: ;
+	font-family: ;
+	font-size: 50px;
+	font-weight:bold ;
+	font-face:;
+}
